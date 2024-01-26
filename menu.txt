@@ -1,0 +1,60 @@
+1
+Glazed Donut
+0.62
+2
+Donut Holes (4ct)
+0.85
+3
+Glazed Twist Donut
+1.39
+4
+Chocolate Glazed Donut
+0.78
+5
+Blueberry Cake Donut
+0.99
+6
+Regular Cake Donut
+0.99
+7
+Chocolate Cake Donut
+0.99
+8
+Chocolate & Sprinkles Donut
+1.08
+9
+Grape Jelly Donut
+1.60
+10
+Strawberry Jelly Donut
+1.60
+11
+Sausage Egg w/Cheese Croissant
+2.89
+12
+Bacon Egg w/Cheese Croissant
+2.82
+13
+Jumbo Jalapeno Sausage Kolache
+3.02
+14
+Mini Jalapeno Sausage Kolache
+1.79
+15
+Orange Juice
+1.79
+16
+Apple Juice
+1.79
+17
+Dasani Water
+1.99
+18
+Gatorade (24oz)
+2.39
+19
+Small Coffe
+1.08
+20
+Large Coffe
+2.15

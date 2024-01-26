@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1650250400 source:c:\users\kamar\onedrive\desktop\donutshop\main.cpp
+	<iostream>
+	"Master.h"
+
+1650300865 c:\users\kamar\onedrive\desktop\donutshop\master.h
+	<string>
+	"Register.h"
+
+1650302152 source:c:\users\kamar\onedrive\desktop\donutshop\master.cpp
+	"Master.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	<conio.h>
+
+1650302464 source:c:\users\kamar\onedrive\desktop\donutshop\register.cpp
+	"Register.h"
+	<string>
+	<iomanip>
+	<iostream>
+	<ctime>
+	<fstream>
+
+1650301641 c:\users\kamar\onedrive\desktop\donutshop\register.h
+	<string>
+	<vector>
+
+1650246800 source:c:\users\kamar\onedrive\desktop\donutshop(complete)\main.cpp
+	<iostream>
+	"Master.h"
+
+1650297265 c:\users\kamar\onedrive\desktop\donutshop(complete)\master.h
+	<string>
+	"Register.h"
+
+1650298041 c:\users\kamar\onedrive\desktop\donutshop(complete)\register.h
+	<string>
+	<vector>
+
+1706280406 source:c:\users\kamar\onedrive\desktop\donutshop(complete)\master.cpp
+	"Master.h"
+	<iostream>
+	<string>
+	<iomanip>
+	<fstream>
+	<conio.h>
+
+1706203295 source:c:\users\kamar\onedrive\desktop\donutshop(complete)\register.cpp
+	"Register.h"
+	<string>
+	<iomanip>
+	<iostream>
+	<ctime>
+	<fstream>
+
